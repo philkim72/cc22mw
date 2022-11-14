@@ -23,6 +23,7 @@ rmd_files: [
   # Part: Tutorials
   'mapcharts.Rmd',
   'machine_learning_tutorial.Rmd',
+  'wordcloud2_tutorial.Rmd',
   
   # Part: Workshops
   'edavsurveyandanalysis.Rmd',
